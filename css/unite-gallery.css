@@ -767,7 +767,7 @@ img.ug-sepia-effect{
 
 .ug-lightbox .ug-lightbox-top-panel{
 	position:absolute;
-	z-index:2;
+	z-index:2;создать сайт GitHub Pages в новом или существующем репозитории.
 }
 
 .ug-lightbox .ug-lightbox-top-panel-overlay{
@@ -863,19 +863,19 @@ img.ug-sepia-effect{
 }
 
 .ug-lightbox .ug-textpanel-title{
-	font-size: 14px;
+	font-size: 24px;
 	font-weight: normal;
 	color: #949384;}
 
 .ug-lightbox .ug-textpanel-description{
-	font-size: 12px;
+	font-size: 22px;
 	font-weight: normal;
 	color:  #d0cfc8;}	
 
 .ug-lightbox-compact .ug-textpanel-title,
 .ug-lightbox-compact .ug-textpanel-description{
 	color:#F3F3F3;
-	font-size: 16px;
+	font-size: 26px;
 }
 
 .------------------LOADMORE_BUTTON---------------------{}
