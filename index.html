@@ -60,21 +60,12 @@ function test(){return false}
 	</div>
 	
 	<script type="text/javascript">
+jQuery("#gallery").unitegallery({
+	tile_as_link:true,
+	tile_enable_textpanel:true,
+	tile_textpanel_title_text_align: "center",
+	tile_textpanel_always_on:true,});
+</script>
 
-		jQuery(document).ready(function(){
-			jQuery("#gallery").unitegallery({
-				/*!tile_border_color:"#7a7a7a",
-				tile_outline_color:"#8B8B8B",
-				tile_enable_shadow:true,
-				tile_shadow_color:"#8B8B8B",
-				tile_overlay_opacity:0.3,*/
-				tile_show_link_icon:true,
-				tile_image_effect_type:"sepia",
-				/*!tile_image_effect_reverse:true,*/
-				tile_enable_textpanel:true,
-				lightbox_textpanel_title_color:"e5e5e5",
-				tiles_col_width:230,
-				tiles_space_between_cols:20 	});});		
-	</script>
 </body>
 </html>
