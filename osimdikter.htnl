@@ -1,1 +1,87 @@
-hhdhdtevg
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon"href="syuretter/taңba.gif"type="image/gif">
+<title>Қalpan - kөrmes&yacute</title>
+<script type='text/javascript' src='js/jquery-11.0.min.js'></script>	
+<script type='text/javascript' src='js/unitegallery.js'></script>	
+<script type='text/javascript' src='js/ug-theme-tiles.js'></script>
+<link rel='stylesheet' href='css/unite-gallery.css' type='text/css'/>	
+</head>
+
+<script type="text/javascript">
+document.ondragstart = test;
+document.onselectstart = test;
+document.oncontextmenu = test;
+function test(){return false}
+</script>
+
+<body>	
+<a href="https://qalpan.github.io/Korme/">
+<img alt="Басты бет"title="Басты бетке - оралыу"src="syuretter/taңba-gylder.svg"data-image="syuretter/taңba-gylder.svg"data-description="бастау"></a> 
+   
+<div id="gallery" style="">    
+ <img alt="ақ гүлдер"src="syuretter/gylder/ақ гүлдер.jpg"data-image="syuretter/gylder/ақ гүлдер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="ақ гүлдер"src="syuretter/gylder/ақ гүлдер1.jpg"data-image="syuretter/gylder/ақ гүлдер1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="ақ түймедақ"src="syuretter/gylder/ақ түймедақ.jpg"data-image="syuretter/gylder/ақ түймедақ.jpg"data-description="қарлыға төлеуғали">
+   <img alt="ақ түймедақтар"src="syuretter/gylder/ақ түймедақтар.jpg"data-image="syuretter/gylder/ақ түймедақтар.jpg"data-description="қарлыға төлеуғали">
+   <img alt="ақ түймедақтар"src="syuretter/gylder/ақ түймедақтар1.jpg"data-image="syuretter/gylder/ақ түймедақтар1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="әр түсті гүл"src="syuretter/gylder/әр түсті гүл.jpg"data-image="syuretter/gylder/әр түсті гүл.jpg"data-description="қарлыға төлеуғали">
+   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер.jpg"data-image="syuretter/gylder/әр түсті гүлдер.jpg"data-description="аиарыу төлеуғали">
+   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер1.jpg"data-image="syuretter/gylder/әр түсті гүлдер1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер2.jpg"data-image="syuretter/gylder/әр түсті гүлдер2.jpg"data-description="қарлыға төлеуғали">
+   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер3.jpg"data-image="syuretter/gylder/әр түсті гүлдер3.jpg"data-description="қарлыға төлеуғали">
+
+   <img alt="бәйшешек"src="syuretter/gylder/бәйшешек.jpg"data-image="syuretter/gylder/бәйшешек.jpg"data-description="қарлыға төлеуғали">
+   <img alt="бәйшешек"src="syuretter/gylder/бәйшешек1.jpg"data-image="syuretter/gylder/бәйшешек1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="бәйшешек"src="syuretter/gylder/бәйшешек2.jpg"data-image="syuretter/gylder/бәйшешек2.jpg"data-description="аиарыу төлеуғали">
+   <img alt="бәйшешектер"src="syuretter/gylder/бәйшешектер.jpg"data-image="syuretter/gylder/бәйшешектер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="бәйшешектер"src="syuretter/gylder/бәйшешектер1.jpg"data-image="syuretter/gylder/бәйшешектер1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="көгілдір гүл келбеті"src="syuretter/gylder/көгілдір гүл келбеті.jpg"data-image="syuretter/gylder/көгілдір гүл келбеті.jpg"data-description="қарлыға төлеуғали">
+   <img alt="көгілдір гүл"src="syuretter/gylder/көгілдір гүл.jpg"data-image="syuretter/gylder/көгілдір гүл.jpg"data-description="қарлыға төлеуғали">
+   <img alt="көгілдір гүл"src="syuretter/gylder/көгілдір гүл1.jpg"data-image="syuretter/gylder/көгілдір гүл1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="гүл"src="syuretter/gylder/гүл.jpg"data-image="syuretter/gylder/гүл.jpg"data-description="әигерім төлеуғали">
+   <img alt="гүлдер"src="syuretter/gylder/гүлдер.jpg"data-image="syuretter/gylder/гүлдер.jpg"data-description="қарлыға төлеуғали">
+
+   <img alt="гүлдер"src="syuretter/gylder/гүлдер1.jpg"data-image="syuretter/gylder/гүлдер1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері.jpg"data-image="syuretter/gylder/дала гүлдері.jpg"data-description="қарлыға төлеуғали">
+   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері1.jpg"data-image="syuretter/gylder/дала гүлдері1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері2.jpg"data-image="syuretter/gylder/дала гүлдері2.jpg"data-description="қарлыға төлеуғали">
+   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері3.jpg"data-image="syuretter/gylder/дала гүлдері3.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жазғы дала"src="syuretter/gylder/жазғы дала.jpg"data-image="syuretter/gylder/жазғы дала.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жазғы күн"src="syuretter/gylder/жазғы күн.jpg"data-image="syuretter/gylder/жазғы күн.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жауқазын"src="syuretter/gylder/жауқазын.jpg"data-image="syuretter/gylder/жауқазын.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жұлдыз гүлдер"src="syuretter/gylder/жұлдыз гүлдер.jpg"data-image="syuretter/gylder/жұлдыз гүлдер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жұлдыз гүлдер"src="syuretter/gylder/жұлдыз гүлдер1.jpg"data-image="syuretter/gylder/жұлдыз гүлдер1.jpg"data-description="қарлыға төлеуғали">
+
+   <img alt="қызғалдақ"src="syuretter/gylder/қызғалдақ.jpg"data-image="syuretter/gylder/қызғалдақ.jpg"data-description="қарлыға төлеуғали">
+   <img alt="қызғалдақ"src="syuretter/gylder/қызғалдақ1.jpg"data-image="syuretter/gylder/қызғалдақ1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="қызғалдақтар"src="syuretter/gylder/қызғалдақтар.jpg"data-image="syuretter/gylder/қызғалдақтар.jpg"data-description="қарлыға төлеуғали">
+   <img alt="қызыл тұймедақ"src="syuretter/gylder/қызыл тұймедақ.jpg"data-image="syuretter/gylder/қызыл тұймедақ.jpg"data-description="қарлыға төлеуғали">
+   <img alt="қызыл тұймедақтар"src="syuretter/gylder/қызыл тұймедақтар.jpg"data-image="syuretter/gylder/қызыл тұймедақтар.jpg"data-description="қарлыға төлеуғали">
+   <img alt="мейрам"src="syuretter/gylder/мейрам.jpg"data-image="syuretter/gylder/мейрам.jpg"data-description="қарлыға төлеуғали">
+   <img alt="мерекеңізбен"src="syuretter/gylder/мерекеңізбен1.jpg"data-image="syuretter/gylder/мерекеңізбен1.jpg"data-description="әигерім төлеуғали">
+   <img alt="мерекеңізбен"src="syuretter/gylder/мерекеңізбен2.jpg"data-image="syuretter/gylder/мерекеңізбен2.jpg"data-description="әигерім төлеуғали">
+   <img alt="раушан гүлдері"src="syuretter/gylder/раушан гүлдері.jpg"data-image="syuretter/gylder/раушан гүлдері.jpg"data-description="қарлыға төлеуғали">
+   <img alt="сарғалдақ"src="syuretter/gylder/сарғалдақ.jpg"data-image="syuretter/gylder/сарғалдақ.jpg"data-description="қарлыға төлеуғали">
+
+   <img alt="сарғалдақ"src="syuretter/gylder/сарғалдақ1.jpg"data-image="syuretter/gylder/сарғалдақ1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="сарғалдақ"src="syuretter/gylder/сарғалдақ2.jpg"data-image="syuretter/gylder/сарғалдақ2.jpg"data-description="қарлыға төлеуғали">
+   <img alt="түймедақтар"src="syuretter/gylder/түймедақтар.jpg"data-image="syuretter/gylder/түймедақтар.jpg"data-description="қарлыға төлеуғали">
+   <img alt="түсті гүл"src="syuretter/gylder/түсті гүл.jpg"data-image="syuretter/gylder/түсті гүл.jpg"data-description="қарлыға төлеуғали">
+   <img alt="үй гүлі"src="syuretter/gylder/үй гүлі.jpg"data-image="syuretter/gylder/үй гүлі.jpg"data-description="қарлыға төлеуғали">
+   <img alt="үй гүлі"src="syuretter/gylder/үй гүлі1.jpg"data-image="syuretter/gylder/үй гүлі1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="шырмауық гүлдер"src="syuretter/gylder/шырмауық гүлдер.jpg"data-image="syuretter/gylder/шырмауық гүлдер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="ыдыстағы гүлдер"src="syuretter/gylder/ыдыстағы гүлдер.jpg"data-image="syuretter/gylder/ыдыстағы гүлдер.jpg"data-description="қарлыға төлеуғали">
+</div>
+
+<script type="text/javascript">
+jQuery("#gallery").unitegallery({
+	tile_enable_textpanel:true,
+	tile_textpanel_title_text_align: "center",
+	tile_textpanel_always_on:true,});
+</script>
+
+</body>
+</html>
