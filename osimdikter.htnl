@@ -19,61 +19,47 @@ function test(){return false}
 
 <body>	
 <a href="https://qalpan.github.io/Korme/">
-<img alt="Басты бет"title="Басты бетке - оралыу"src="syuretter/taңba-gylder.svg"data-image="syuretter/taңba-gylder.svg"data-description="бастау"></a> 
+<img alt="Басты бет"title="Басты бетке - оралыу"src="syuretter/taңba-osimdikter.svg"data-image="syuretter/taңba-osimdikter.svg"data-description="бастау"></a> 
    
 <div id="gallery" style="">    
- <img alt="ақ гүлдер"src="syuretter/gylder/ақ гүлдер.jpg"data-image="syuretter/gylder/ақ гүлдер.jpg"data-description="қарлыға төлеуғали">
-   <img alt="ақ гүлдер"src="syuretter/gylder/ақ гүлдер1.jpg"data-image="syuretter/gylder/ақ гүлдер1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="ақ түймедақ"src="syuretter/gylder/ақ түймедақ.jpg"data-image="syuretter/gylder/ақ түймедақ.jpg"data-description="қарлыға төлеуғали">
-   <img alt="ақ түймедақтар"src="syuretter/gylder/ақ түймедақтар.jpg"data-image="syuretter/gylder/ақ түймедақтар.jpg"data-description="қарлыға төлеуғали">
-   <img alt="ақ түймедақтар"src="syuretter/gylder/ақ түймедақтар1.jpg"data-image="syuretter/gylder/ақ түймедақтар1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="әр түсті гүл"src="syuretter/gylder/әр түсті гүл.jpg"data-image="syuretter/gylder/әр түсті гүл.jpg"data-description="қарлыға төлеуғали">
-   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер.jpg"data-image="syuretter/gylder/әр түсті гүлдер.jpg"data-description="аиарыу төлеуғали">
-   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер1.jpg"data-image="syuretter/gylder/әр түсті гүлдер1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер2.jpg"data-image="syuretter/gylder/әр түсті гүлдер2.jpg"data-description="қарлыға төлеуғали">
-   <img alt="әр түсті гүлдер"src="syuretter/gylder/әр түсті гүлдер3.jpg"data-image="syuretter/gylder/әр түсті гүлдер3.jpg"data-description="қарлыға төлеуғали">
+<img alt="ағаштар"src="syuretter/osimdikter/ағаштар.svg"data-image="syuretter/osimdikter/ағаштар.svg"data-description="қарлыға төлеуғали">    
+   <img alt="нан ағашы"src="syuretter/osimdikter/нан ағашы.svg"data-image="syuretter/osimdikter/нан ағашы.svg"data-description="қарлыға төлеуғали">
+   <img alt="сүт ағашы"src="syuretter/osimdikter/сүт ағашы.svg"data-image="syuretter/osimdikter/сүт ағашы.svg"data-description="қарлыға төлеуғали">    
+   <img alt="шұжық ағаш"src="syuretter/osimdikter/шұжық ағаш.svg"data-image="syuretter/osimdikter/шұжық ағаш.svg"data-description="қарлыға төлеуғали">    
+   <img alt="шақалад ағаш"src="syuretter/osimdikter/шақалад ағаш.svg"data-image="syuretter/osimdikter/шақалад ағаш.svg"data-description="қарлыға төлеуғали">
+   <img alt="би ағашы"src="syuretter/osimdikter/би ағашы.svg"data-image="syuretter/osimdikter/би ағашы.svg"data-description="қарлыға төлеуғали">     
+   <img alt="ағаш"src="syuretter/osimdikter/ағаш.jpg"data-image="syuretter/osimdikter/ағаш.jpg"data-description="қарлыға төлеуғали">
+   <img alt="дастархан"src="syuretter/osimdikter/дастархан.jpg"data-image="syuretter/osimdikter/дастархан.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жаңа жыл"src="syuretter/osimdikter/жаңа жыл.jpg"data-image="syuretter/osimdikter/жаңа жыл.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жаңа жылыңызбен"src="syuretter/osimdikter/жаңа жылыңызбен.jpg"data-image="syuretter/osimdikter/жаңа жылыңызбен.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жаңа жылыңызбен"src="syuretter/osimdikter/жаңа жылыңызбен1.jpg"data-image="syuretter/osimdikter/жаңа жылыңызбен1.jpg"data-description="әигерім төлеуғали">
+   <img alt="жапырақ жеміс жидектер"src="syuretter/osimdikter/жапырақ жеміс жидектер.jpg"data-image="syuretter/osimdikter/жапырақ жеміс жидектер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жапырақ"src="syuretter/osimdikter/жапырақ.jpg"data-image="syuretter/osimdikter/жапырақ.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жапырақ"src="syuretter/osimdikter/жапырақ1.jpg"data-image="syuretter/osimdikter/жапырақ1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жеміс жидек гүл ыдыстар"src="syuretter/osimdikter/жеміс жидек гүл ыдыстар.jpg"data-image="syuretter/osimdikter/жеміс жидек гүл ыдыстар.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жеміс жидек гүлдер"src="syuretter/osimdikter/жеміс жидек гүлдер.jpg"data-image="syuretter/osimdikter/жеміс жидек гүлдер.jpg"data-description="қарлыға төлеуғали">
 
-   <img alt="бәйшешек"src="syuretter/gylder/бәйшешек.jpg"data-image="syuretter/gylder/бәйшешек.jpg"data-description="қарлыға төлеуғали">
-   <img alt="бәйшешек"src="syuretter/gylder/бәйшешек1.jpg"data-image="syuretter/gylder/бәйшешек1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="бәйшешек"src="syuretter/gylder/бәйшешек2.jpg"data-image="syuretter/gylder/бәйшешек2.jpg"data-description="аиарыу төлеуғали">
-   <img alt="бәйшешектер"src="syuretter/gylder/бәйшешектер.jpg"data-image="syuretter/gylder/бәйшешектер.jpg"data-description="қарлыға төлеуғали">
-   <img alt="бәйшешектер"src="syuretter/gylder/бәйшешектер1.jpg"data-image="syuretter/gylder/бәйшешектер1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="көгілдір гүл келбеті"src="syuretter/gylder/көгілдір гүл келбеті.jpg"data-image="syuretter/gylder/көгілдір гүл келбеті.jpg"data-description="қарлыға төлеуғали">
-   <img alt="көгілдір гүл"src="syuretter/gylder/көгілдір гүл.jpg"data-image="syuretter/gylder/көгілдір гүл.jpg"data-description="қарлыға төлеуғали">
-   <img alt="көгілдір гүл"src="syuretter/gylder/көгілдір гүл1.jpg"data-image="syuretter/gylder/көгілдір гүл1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="гүл"src="syuretter/gylder/гүл.jpg"data-image="syuretter/gylder/гүл.jpg"data-description="әигерім төлеуғали">
-   <img alt="гүлдер"src="syuretter/gylder/гүлдер.jpg"data-image="syuretter/gylder/гүлдер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жеміс жидектер"src="syuretter/osimdikter/жеміс жидектер.jpg"data-image="syuretter/osimdikter/жеміс жидектер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жеміс көкөністер"src="syuretter/osimdikter/жеміс көкөністер.jpg"data-image="syuretter/osimdikter/жеміс көкөністер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жеміс көкөністер"src="syuretter/osimdikter/жеміс көкөністер1.jpg"data-image="syuretter/osimdikter/жеміс көкөністер1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жеміс ыдыс"src="syuretter/osimdikter/жеміс ыдыс.jpg"data-image="syuretter/osimdikter/жеміс ыдыс.jpg"data-description="әигерім төлеуғали">
+   <img alt="жемістер"src="syuretter/osimdikter/жемістер.jpg"data-image="syuretter/osimdikter/жемістер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жемістер"src="syuretter/osimdikter/жемістер1.jpg"data-image="syuretter/osimdikter/жемістер1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="қызанақ"src="syuretter/osimdikter/қызанақ.jpg"data-image="syuretter/osimdikter/қызанақ.jpg"data-description="қарлыға төлеуғали">
+   <img alt="мереке"src="syuretter/osimdikter/мереке.jpg"data-image="syuretter/osimdikter/мереке.jpg"data-description="қарлыға төлеуғали">
+   <img alt="саңырауқұлақтар"src="syuretter/osimdikter/саңырауқұлақтар.jpg"data-image="syuretter/osimdikter/саңырауқұлақтар.jpg"data-description="қарлыға төлеуғали">
+   <img alt="саңырауқұлақтар"src="syuretter/osimdikter/саңырауқұлақтар1.jpg"data-image="syuretter/osimdikter/саңырауқұлақтар1.jpg"data-description="қарлыға төлеуғали">
 
-   <img alt="гүлдер"src="syuretter/gylder/гүлдер1.jpg"data-image="syuretter/gylder/гүлдер1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері.jpg"data-image="syuretter/gylder/дала гүлдері.jpg"data-description="қарлыға төлеуғали">
-   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері1.jpg"data-image="syuretter/gylder/дала гүлдері1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері2.jpg"data-image="syuretter/gylder/дала гүлдері2.jpg"data-description="қарлыға төлеуғали">
-   <img alt="дала гүлдері"src="syuretter/gylder/дала гүлдері3.jpg"data-image="syuretter/gylder/дала гүлдері3.jpg"data-description="қарлыға төлеуғали">
-   <img alt="жазғы дала"src="syuretter/gylder/жазғы дала.jpg"data-image="syuretter/gylder/жазғы дала.jpg"data-description="қарлыға төлеуғали">
-   <img alt="жазғы күн"src="syuretter/gylder/жазғы күн.jpg"data-image="syuretter/gylder/жазғы күн.jpg"data-description="қарлыға төлеуғали">
-   <img alt="жауқазын"src="syuretter/gylder/жауқазын.jpg"data-image="syuretter/gylder/жауқазын.jpg"data-description="қарлыға төлеуғали">
-   <img alt="жұлдыз гүлдер"src="syuretter/gylder/жұлдыз гүлдер.jpg"data-image="syuretter/gylder/жұлдыз гүлдер.jpg"data-description="қарлыға төлеуғали">
-   <img alt="жұлдыз гүлдер"src="syuretter/gylder/жұлдыз гүлдер1.jpg"data-image="syuretter/gylder/жұлдыз гүлдер1.jpg"data-description="қарлыға төлеуғали">
-
-   <img alt="қызғалдақ"src="syuretter/gylder/қызғалдақ.jpg"data-image="syuretter/gylder/қызғалдақ.jpg"data-description="қарлыға төлеуғали">
-   <img alt="қызғалдақ"src="syuretter/gylder/қызғалдақ1.jpg"data-image="syuretter/gylder/қызғалдақ1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="қызғалдақтар"src="syuretter/gylder/қызғалдақтар.jpg"data-image="syuretter/gylder/қызғалдақтар.jpg"data-description="қарлыға төлеуғали">
-   <img alt="қызыл тұймедақ"src="syuretter/gylder/қызыл тұймедақ.jpg"data-image="syuretter/gylder/қызыл тұймедақ.jpg"data-description="қарлыға төлеуғали">
-   <img alt="қызыл тұймедақтар"src="syuretter/gylder/қызыл тұймедақтар.jpg"data-image="syuretter/gylder/қызыл тұймедақтар.jpg"data-description="қарлыға төлеуғали">
-   <img alt="мейрам"src="syuretter/gylder/мейрам.jpg"data-image="syuretter/gylder/мейрам.jpg"data-description="қарлыға төлеуғали">
-   <img alt="мерекеңізбен"src="syuretter/gylder/мерекеңізбен1.jpg"data-image="syuretter/gylder/мерекеңізбен1.jpg"data-description="әигерім төлеуғали">
-   <img alt="мерекеңізбен"src="syuretter/gylder/мерекеңізбен2.jpg"data-image="syuretter/gylder/мерекеңізбен2.jpg"data-description="әигерім төлеуғали">
-   <img alt="раушан гүлдері"src="syuretter/gylder/раушан гүлдері.jpg"data-image="syuretter/gylder/раушан гүлдері.jpg"data-description="қарлыға төлеуғали">
-   <img alt="сарғалдақ"src="syuretter/gylder/сарғалдақ.jpg"data-image="syuretter/gylder/сарғалдақ.jpg"data-description="қарлыға төлеуғали">
-
-   <img alt="сарғалдақ"src="syuretter/gylder/сарғалдақ1.jpg"data-image="syuretter/gylder/сарғалдақ1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="сарғалдақ"src="syuretter/gylder/сарғалдақ2.jpg"data-image="syuretter/gylder/сарғалдақ2.jpg"data-description="қарлыға төлеуғали">
-   <img alt="түймедақтар"src="syuretter/gylder/түймедақтар.jpg"data-image="syuretter/gylder/түймедақтар.jpg"data-description="қарлыға төлеуғали">
-   <img alt="түсті гүл"src="syuretter/gylder/түсті гүл.jpg"data-image="syuretter/gylder/түсті гүл.jpg"data-description="қарлыға төлеуғали">
-   <img alt="үй гүлі"src="syuretter/gylder/үй гүлі.jpg"data-image="syuretter/gylder/үй гүлі.jpg"data-description="қарлыға төлеуғали">
-   <img alt="үй гүлі"src="syuretter/gylder/үй гүлі1.jpg"data-image="syuretter/gylder/үй гүлі1.jpg"data-description="қарлыға төлеуғали">
-   <img alt="шырмауық гүлдер"src="syuretter/gylder/шырмауық гүлдер.jpg"data-image="syuretter/gylder/шырмауық гүлдер.jpg"data-description="қарлыға төлеуғали">
-   <img alt="ыдыстағы гүлдер"src="syuretter/gylder/ыдыстағы гүлдер.jpg"data-image="syuretter/gylder/ыдыстағы гүлдер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="себеттегі шие"src="syuretter/osimdikter/себеттегі шие.jpg"data-image="syuretter/osimdikter/себеттегі шие.jpg"data-description="қарлыға төлеуғали">
+   <img alt="талдар"src="syuretter/osimdikter/талдар.jpg"data-image="syuretter/osimdikter/талдар.jpg"data-description="әигерім төлеуғали">
+   <img alt="шырмауық гүлдер"src="syuretter/osimdikter/шырмауық гүлдер.jpg"data-image="syuretter/osimdikter/шырмауық гүлдер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="шырмауық гүлдер"src="syuretter/osimdikter/шырмауық гүлдер1.jpg"data-image="syuretter/osimdikter/шырмауық гүлдер1.jpg"data-description="қарлыға төлеуғали">
+   <img alt="шырша ағаштар"src="syuretter/osimdikter/шырша ағаштар.jpg"data-image="syuretter/osimdikter/шырша ағаштар.jpg"data-description="қарлыға төлеуғали">
+   <img alt="гүл жеміс жидектер"src="syuretter/osimdikter/ыдыстағы гүл жеміс жидектер.jpg"data-image="syuretter/osimdikter/ыдыстағы гүл жеміс жидектер.jpg"data-description="қарлыға төлеуғали">
+   <img alt="жеміс жидектер"src="syuretter/osimdikter/ыдыстағы жеміс жидектер.jpg"data-image="syuretter/osimdikter/ыдыстағы жеміс жидектер.jpg"data-description="қарлыға төлеуғали">
+    
+<img alt="ағаштар"src="syuretter/osimdikter/ағаштар-беине.jpg"data-type="html5video"data-image="syuretter/osimdikter/ағаштар-беине.jpg"
+data-videoogv=".ogv"data-videowebm=".webm"data-videomp4="syuretter/osimdikter/ағаштар.mp4"data-description="қарлыға">   
 </div>
 
 <script type="text/javascript">
