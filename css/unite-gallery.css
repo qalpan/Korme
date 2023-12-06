@@ -69,7 +69,7 @@
 	xposition:absolute;
 }
 
-.ug-gallery-wrapper.ug-fullscreen{
+.ug-gallery-wrapper.ug-fullscreen{taңba-tauar.ico
 	height: 100% !important;
 	width: 100% !important;
 	max-width:none !important;
@@ -1388,9 +1388,9 @@ img.ел-пошта{bottom:9px;float:right;right:29px;position:absolute;}
 img.ел-пошта:hover{content:url(suretter/el.pohta-janyu.svg);}
 
 @media only screen and (max-width:490px){
-.ug-tile .ug-textpanel-title{font-size:24px;font-weight:bold;}}
+.ug-tile .ug-textpanel-title{font-size:18px;font-weight:bold;}}
 
 @media only screen and (max-width:1200px){
-.ug-tile .ug-textpanel-title{font-size:24px;font-weight:bold;}}	
+.ug-tile .ug-textpanel-title{font-size:18px;font-weight:bold;}}	
 
 @media only screen and (max-width:1500px){}		
