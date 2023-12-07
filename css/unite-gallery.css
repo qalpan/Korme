@@ -36,7 +36,7 @@
 
 .ug-gallery-wrapper{
 	overflow:hidden;
-	position:relative;@media only screen and (max-width:490px){
+	position:relative;
 	font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -1326,7 +1326,7 @@ img.ug-sepia-effect{
 /* left and right handle */
 .ug-gallery-wrapper .ug-handle-tip-left.ug-skin-default,
 .ug-gallery-wrapper .ug-handle-tip-right.ug-skin-default{
-	width:22px;@media only screen and (max-width:490px){
+	width:22px;
 	height:36px;
 	background-image:url('../skins/default/hygaryu-kirgiziu.svg');
 	background-repeat:no-repeat;
