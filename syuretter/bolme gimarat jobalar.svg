@@ -54,6 +54,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3.07099;stroke-linecap:round"
+       id="rect971"
+       width="262.58835"
+       height="356.93353"
+       x="26.921989"
+       y="48.613003"
+       ry="5.4155445" />
     <image
        width="262.58835"
        height="356.93353"
@@ -62,14 +70,7 @@
        id="image1468"
        x="17.212702"
        y="31.955414"
-       style="display:inline" />
-    <path
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 279.80105,31.955414 v 356.933526 0"
-       id="path1489" />
-    <path
-       style="opacity:0.55839;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 284.03441,31.955414 v 356.933536 0"
-       id="path1489-6" />
+       style="display:inline"
+       sodipodi:insensitive="true" />
   </g>
 </svg>
