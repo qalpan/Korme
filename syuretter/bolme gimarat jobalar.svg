@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.23579016"
-     inkscape:cx="1009.3721"
+     inkscape:cx="979.68465"
      inkscape:cy="892.74294"
      inkscape:window-width="1600"
      inkscape:window-height="848"
@@ -90,7 +90,7 @@
        id="image5937"
        x="-5.6843419e-14"
        y="3.5527137e-15"
-       style="display:inline;opacity:0.5" />
+       style="display:inline;opacity:0.754979" />
     <image
        width="297"
        height="420"
@@ -99,7 +99,7 @@
        id="image1059"
        x="0"
        y="0"
-       style="display:inline"
+       style="display:inline;opacity:1"
        clip-path="url(#clipPath1187)"
        transform="matrix(1.0103557,0,0,1.0073008,-1.537822,-1.5331723)" />
   </g>
