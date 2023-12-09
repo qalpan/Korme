@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.24258858"
-     inkscape:cx="177.25484"
+     inkscape:cx="144.2772"
      inkscape:cy="595.65871"
      inkscape:window-width="1600"
      inkscape:window-height="848"
@@ -44,6 +44,57 @@
          d="M -1.52206,1.52206 V 55.606461 C -87.22991,164.52179 -332.57498,58.01836 -340.09285,295.47794 h -78.38509 V 1.52206 Z"
          sodipodi:nodetypes="cccccc" />
     </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Colorize"
+       id="filter839"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite825" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix827" />
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood1"
+         id="feFlood829" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend831" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend833" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix835" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="composite2"
+         id="feComposite837" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -58,7 +109,7 @@
        x="-420"
        y="0"
        transform="rotate(-90)"
-       style="display:inline" />
+       style="display:inline;filter:url(#filter839)" />
     <image
        width="420"
        height="297"
