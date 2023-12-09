@@ -77,6 +77,57 @@
          d="M 1.52206,1.52206 H 55.606461 C 164.52179,87.229913 58.01836,332.57498 295.47794,340.09285 v 78.38509 H 1.52206 Z"
          sodipodi:nodetypes="cccccc" />
     </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Colorize"
+       id="filter3802"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite3788" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix3790" />
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood1"
+         id="feFlood3792" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend3794" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend3796" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix3798" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="composite2"
+         id="feComposite3800" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -90,7 +141,7 @@
        id="image5937"
        x="-5.6843419e-14"
        y="3.5527137e-15"
-       style="display:inline;opacity:0.754979" />
+       style="display:inline;opacity:0.754979;filter:url(#filter3802)" />
     <image
        width="297"
        height="420"
