@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.25722563"
-     inkscape:cx="276.02226"
+     inkscape:cx="244.92116"
      inkscape:cy="515.11197"
      inkscape:window-width="1600"
      inkscape:window-height="848"
@@ -53,6 +53,57 @@
          d="M 1.5220597,1.5220597 H 55.606458 C 276.00844,93.07825 58.018362,332.57498 295.47794,340.09285 v 78.38509 H 1.5220597 Z"
          sodipodi:nodetypes="cccccc" />
     </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Colorize"
+       id="filter842"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite828" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix830" />
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood1"
+         id="feFlood832" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend834" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend836" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix838" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="composite2"
+         id="feComposite840" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -66,7 +117,7 @@
        id="image1106"
        x="0"
        y="0"
-       style="display:inline;opacity:0.5" />
+       style="display:inline;opacity:1;filter:url(#filter842)" />
     <image
        width="297"
        height="420"
