@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.29857056"
-     inkscape:cx="190.90965"
-     inkscape:cy="631.34156"
+     inkscape:cx="140.67027"
+     inkscape:cy="631.34155"
      inkscape:window-width="1600"
      inkscape:window-height="848"
      inkscape:window-x="0"
@@ -44,6 +44,57 @@
          d="M 1.52206,1.52206 H 55.606461 C 164.52179,87.22991 58.01836,332.57498 295.47794,340.09285 v 78.38509 H 1.52206 Z"
          sodipodi:nodetypes="cccccc" />
     </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Colorize"
+       id="filter839"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite825" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix827" />
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood1"
+         id="feFlood829" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend831" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend833" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix835" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="composite2"
+         id="feComposite837" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -58,7 +109,7 @@
        x="-420"
        y="0"
        transform="rotate(-90)"
-       style="display:inline" />
+       style="display:inline;opacity:1;filter:url(#filter839)" />
     <image
        width="297"
        height="420"
