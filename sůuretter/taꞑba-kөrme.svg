@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg17361"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="taңba-kөrme.svg"
+   inkscape:export-filename="/home/m/Жүктемелер/taңba-tauar.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17363"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.108143"
+     inkscape:cx="97.485861"
+     inkscape:cy="69.655739"
+     inkscape:window-width="1600"
+     inkscape:window-height="848"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs17358" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g958"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 H 16.933333 V 16.933333 H 0 Z"
+         style="display:inline;fill:none;stroke-width:0.186678"
+         id="path1179-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:none;stroke:#6b470f;stroke-width:2.23613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.5192496,14.31082 h 8.7768074 c 3.3008,0 3.205298,-2.636287 5.178082,-2.636287"
+         id="path5828-3-04"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+      <rect
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#6b470f;stroke-width:2.2143;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15340"
+         width="11.025727"
+         height="8.3262854"
+         x="1.5294874"
+         y="2.9696949"
+         ry="3.7827654"
+         rx="3.6723468" />
+    </g>
+    <path
+       d="M 0,0 H 16.933333 V 16.933333 H 0 Z"
+       style="fill:none;stroke-width:0.186678"
+       id="path1179"
+       inkscape:connector-curvature="0" />
+    <g
+       id="Layer1067"
+       transform="matrix(0.18667816,0,0,0.18667837,-68.669188,-36.992851)">
+      <path
+         d="m 412.2543,220.5241 c -25.3263,3.9985 -33.768,19.9061 -36.2574,29.2365 -2.1769,8.0863 -1.5543,21.3721 16.5292,21.817 5.8651,0 22.9274,-0.0442 36.922,0 17.3746,0.0441 22.2176,-13.8632 21.818,-25.8154 -0.7605,-21.7028 -20.2938,-28.1658 -39.0118,-25.2381 z"
+         style="fill:none;stroke:#6b470f;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path1181"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 388.736,251.2708 c 0,-5.4616 4.4597,-9.9213 9.9213,-9.9213 5.4615,0 9.9213,4.4597 9.9213,9.9213 0,5.4616 -4.4598,9.9213 -9.9213,9.9213 -5.4616,0 -9.9213,-4.4597 -9.9213,-9.9213 z"
+         style="fill:#6b470f;fill-rule:evenodd"
+         id="path1183"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
