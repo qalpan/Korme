@@ -25,7 +25,7 @@
      showgrid="false"
      units="px"
      inkscape:zoom="1.2316035"
-     inkscape:cx="241.96099"
+     inkscape:cx="229.78174"
      inkscape:cy="45.063204"
      inkscape:window-width="1600"
      inkscape:window-height="848"
@@ -69,7 +69,7 @@
        inkscape:export-ydpi="96" />
     <path
        d="m 7.2752291,11.23048 c 0,-1.12436 0.918107,-2.0425604 2.042477,-2.0425604 1.1244779,0 2.0425809,0.9182004 2.0425809,2.0425604 0,1.1244 -0.918103,2.0426 -2.0425809,2.0426 -1.12437,0 -2.042477,-0.9182 -2.042477,-2.0426 z"
-       style="display:inline;fill:#878678;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05832"
+       style="display:inline;opacity:1;fill:#878678;fill-opacity:1;fill-rule:evenodd;stroke-width:1.05832"
        id="path984-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/m/Жүктемелер/rect154481.png"
@@ -120,7 +120,7 @@
          id="tspan73232-0">sůuret өnerý tūuyndylary</tspan></text>
     <path
        style="fill:none;stroke:#878678;stroke-width:0.222007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 51.047293,4.5974853 c 0,12.4585497 0,12.5894057 0,12.5894057"
+       d="m 52.105627,4.5974853 c 0,12.4585497 0,12.5894057 0,12.5894057"
        id="path111900" />
   </g>
 </svg>
