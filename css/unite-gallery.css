@@ -1388,11 +1388,11 @@ img.ел-пошта{bottom:9px;float:right;right:29px;position:absolute;}
 img.ел-пошта:hover{content:url(suretter/el.pohta-janyu.svg);}
 
 @media only screen and (max-width:490px){
-.ug-tile .ug-textpanel-title,.ug-lightbox .ug-textpanel-title{font-size:22px;font-weight:bold;}
-.ug-lightbox .ug-textpanel-description{font-size:18px;font-weight:normal;}}
+.ug-tile .ug-textpanel-title,.ug-lightbox .ug-textpanel-title{font-size:24px;font-weight:bold;}
+.ug-lightbox .ug-textpanel-description{font-size:20px;font-weight:normal;}}
 
 @media only screen and (max-width:1200px){
-.ug-tile .ug-textpanel-title,.ug-lightbox .ug-textpanel-title{font-size:22px;font-weight:bold;}
-.ug-lightbox .ug-textpanel-description{font-size:18px;font-weight:normal;}}
+.ug-tile .ug-textpanel-title,.ug-lightbox .ug-textpanel-title{font-size:19px;font-weight:bold;}
+.ug-lightbox .ug-textpanel-description{font-size:15px;font-weight:normal;}}
 
 @media only screen and (max-width:1500px){}
