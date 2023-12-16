@@ -1387,7 +1387,7 @@ img.ug-sepia-effect{
 img.ел-пошта{bottom:9px;float:right;right:29px;position:absolute;}
 img.ел-пошта:hover{content:url(suretter/el.pohta-janyu.svg);}
 
-@media screen and (min-width:490px){
+@media screen and (max-width:490px){
 .ug-tile .ug-textpanel-title,.ug-lightbox .ug-textpanel-title{font-size:28px;font-weight:bold;}
 .ug-lightbox .ug-textpanel-description{font-size:24px;font-weight:normal;}}
 
