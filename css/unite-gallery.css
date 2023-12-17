@@ -1389,7 +1389,7 @@ img.ел-пошта:hover{content:url(suretter/el.pohta-janyu.svg);}
 
 @media screen and (max-width:490px){
 .ug-tile .ug-textpanel-title,.ug-lightbox .ug-textpanel-title{font-size:14px;font-weight:bold;}
-.ug-lightbox .ug-textpanel-description{font-size:24px;font-weight:normal;}
+.ug-lightbox .ug-textpanel-description{font-size:9px;font-weight:normal;}
 img{max-width: 100%;}}
 
 @media only screen and (max-width:1200px){
